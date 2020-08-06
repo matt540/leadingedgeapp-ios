@@ -1,0 +1,465 @@
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "03M-TC-DT0"; */
+"03M-TC-DT0.placeholder" = "Old Password";
+
+/* Class = "UILabel"; text = "AVAILABLE TIME SLOTS"; ObjectID = "0Tj-k5-yjM"; */
+"0Tj-k5-yjM.text" = "AVAILABLE TIME SLOTS";
+
+/* Class = "UILabel"; text = "Gender:"; ObjectID = "0h1-2h-Qjf"; */
+"0h1-2h-Qjf.text" = "Gender:";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "0sk-yd-vCI"; */
+"0sk-yd-vCI.text" = "Date";
+
+/* Class = "UILabel"; text = "Level 3"; ObjectID = "1hp-do-gkz"; */
+"1hp-do-gkz.text" = "Level 3";
+
+/* Class = "UILabel"; text = "Progression Level 3"; ObjectID = "1vB-kg-2OR"; */
+"1vB-kg-2OR.text" = "Progression Level 3";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "2YJ-I6-CZg"; */
+"2YJ-I6-CZg.text" = "Comment";
+
+/* Class = "UILabel"; text = "RATING"; ObjectID = "2a8-QZ-Mtk"; */
+"2a8-QZ-Mtk.text" = "RATING";
+
+/* Class = "UILabel"; text = "Address : "; ObjectID = "2dN-Cc-zBX"; */
+"2dN-Cc-zBX.text" = "Address : ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "2dn-UC-q5L"; */
+"2dn-UC-q5L.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "If you are new to the sport click Discovery Session. If you are an existing eFoiler choose Get Certified."; ObjectID = "2pL-Tz-D5Z"; */
+"2pL-Tz-D5Z.text" = "If you are new to the sport click Discovery Session. If you are an existing eFoiler choose Get Certified.";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "37I-Uw-iJo"; */
+"37I-Uw-iJo.title" = "Dashboard";
+
+/* Class = "UILabel"; text = "Instructors"; ObjectID = "3qs-Ch-fiT"; */
+"3qs-Ch-fiT.text" = "Instructors";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "4ob-dk-kCK"; */
+"4ob-dk-kCK.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "5Fh-a5-UtN"; */
+"5Fh-a5-UtN.text" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "Serach Location"; ObjectID = "5HA-mB-vGH"; */
+"5HA-mB-vGH.placeholder" = "Serach Location";
+
+/* Class = "UILabel"; text = "There is no Time Slots Available. Please Select Another Date."; ObjectID = "5Pt-en-soA"; */
+"5Pt-en-soA.text" = "There is no Time Slots Available. Please Select Another Date.";
+
+/* Class = "UIButton"; normalTitle = "Schedule Now"; ObjectID = "5zw-zR-6t0"; */
+"5zw-zR-6t0.normalTitle" = "Schedule Now";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "60x-VW-dfP"; */
+"60x-VW-dfP.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Level 4"; ObjectID = "7Mn-6L-TyL"; */
+"7Mn-6L-TyL.text" = "Level 4";
+
+/* Class = "UILabel"; text = "Member"; ObjectID = "7RD-mX-CBf"; */
+"7RD-mX-CBf.text" = "Member";
+
+/* Class = "UILabel"; text = "Progression Enrollment Fees"; ObjectID = "7yE-p2-LVZ"; */
+"7yE-p2-LVZ.text" = "Progression Enrollment Fees";
+
+/* Class = "UILabel"; text = "lblURL"; ObjectID = "8GN-MB-7qJ"; */
+"8GN-MB-7qJ.text" = "lblURL";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "8qH-af-KVe"; */
+"8qH-af-KVe.text" = "Date";
+
+/* Class = "UILabel"; text = "To Show Available Time, Please Press and Hold Particular Date in Calendar."; ObjectID = "96G-xG-wev"; */
+"96G-xG-wev.text" = "To Show Available Time, Please Press and Hold Particular Date in Calendar.";
+
+/* Class = "UIButton"; normalTitle = "  Forward"; ObjectID = "97I-Vb-8we"; */
+"97I-Vb-8we.normalTitle" = "  Forward";
+
+/* Class = "UILabel"; text = "AVAILABLE SESSIONS"; ObjectID = "9OI-qY-ZlG"; */
+"9OI-qY-ZlG.text" = "AVAILABLE SESSIONS";
+
+/* Class = "UIButton"; normalTitle = "Get Certified"; ObjectID = "AKX-TC-lw6"; */
+"AKX-TC-lw6.normalTitle" = "Get Certified";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "BQS-cF-kvp"; */
+"BQS-cF-kvp.text" = "Date";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "BVl-7G-uM3"; */
+"BVl-7G-uM3.text" = "Time";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "BfU-3n-Q5H"; */
+"BfU-3n-Q5H.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Reset Password"; ObjectID = "Cgt-W5-ICg"; */
+"Cgt-W5-ICg.normalTitle" = "Reset Password";
+
+/* Class = "UILabel"; text = "Progression Type"; ObjectID = "Cqa-CW-0gS"; */
+"Cqa-CW-0gS.text" = "Progression Type";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "DBz-FH-Ylt"; */
+"DBz-FH-Ylt.text" = "Sign In";
+
+/* Class = "UILabel"; text = "CardNumber"; ObjectID = "DPD-4G-R9I"; */
+"DPD-4G-R9I.text" = "CardNumber";
+
+/* Class = "UILabel"; text = "Email : "; ObjectID = "DtG-2R-Ipv"; */
+"DtG-2R-Ipv.text" = "Email : ";
+
+/* Class = "UILabel"; text = "Progression Enrollment Desc"; ObjectID = "DtY-46-opz"; */
+"DtY-46-opz.text" = "Progression Enrollment Desc";
+
+/* Class = "UILabel"; text = "Click to Submit"; ObjectID = "E9V-kR-JZA"; */
+"E9V-kR-JZA.text" = "Click to Submit";
+
+/* Class = "UILabel"; text = "State : "; ObjectID = "EAm-X8-aj4"; */
+"EAm-X8-aj4.text" = "State : ";
+
+/* Class = "UIButton"; normalTitle = "Take a Picture"; ObjectID = "EoC-rE-DcR"; */
+"EoC-rE-DcR.normalTitle" = "Take a Picture";
+
+/* Class = "UILabel"; text = "Progression Status"; ObjectID = "FGq-aX-IF8"; */
+"FGq-aX-IF8.text" = "Progression Status";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "FMm-1G-OJY"; */
+"FMm-1G-OJY.text" = "Welcome";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Fd6-U6-036"; */
+"Fd6-U6-036.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "AVAILABLE DATES"; ObjectID = "FfW-Vm-fd4"; */
+"FfW-Vm-fd4.text" = "AVAILABLE DATES";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Fph-Sq-aPx"; */
+"Fph-Sq-aPx.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Your Locatiom : "; ObjectID = "FqI-2x-QxP"; */
+"FqI-2x-QxP.text" = "Your Locatiom : ";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? Click here."; ObjectID = "GC8-W9-5BP"; */
+"GC8-W9-5BP.normalTitle" = "Already have an account? Click here.";
+
+/* Class = "UIButton"; normalTitle = "Approve"; ObjectID = "HSS-wh-rTF"; */
+"HSS-wh-rTF.normalTitle" = "Approve";
+
+/* Class = "UILabel"; text = "Progression Status"; ObjectID = "HTX-EW-t0C"; */
+"HTX-EW-t0C.text" = "Progression Status";
+
+/* Class = "UILabel"; text = "Progression Level 2"; ObjectID = "InA-lu-0fs"; */
+"InA-lu-0fs.text" = "Progression Level 2";
+
+/* Class = "UILabel"; text = "Selected Date:"; ObjectID = "K8S-cn-Z3t"; */
+"K8S-cn-Z3t.text" = "Selected Date:";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "KLA-es-pE4"; */
+"KLA-es-pE4.text" = "Time";
+
+/* Class = "UITabBarItem"; title = "Locations"; ObjectID = "Kt3-kn-nMp"; */
+"Kt3-kn-nMp.title" = "Locations";
+
+/* Class = "UILabel"; text = "There is no Sessions Available."; ObjectID = "LCr-bG-Xbc"; */
+"LCr-bG-Xbc.text" = "There is no Sessions Available.";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "LdR-JJ-bQb"; */
+"LdR-JJ-bQb.normalTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "Name : "; ObjectID = "LhW-by-ibT"; */
+"LhW-by-ibT.text" = "Name : ";
+
+/* Class = "UILabel"; text = "WeekDay"; ObjectID = "Luf-fT-xat"; */
+"Luf-fT-xat.text" = "WeekDay";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MBF-L5-FXZ"; */
+"MBF-L5-FXZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "MRf-rp-Mff"; */
+"MRf-rp-Mff.text" = "Comment";
+
+/* Class = "UITextField"; placeholder = "Weight"; ObjectID = "MTB-hU-O1r"; */
+"MTB-hU-O1r.placeholder" = "Weight";
+
+/* Class = "UILabel"; text = "Progression Status"; ObjectID = "MU5-TL-AUe"; */
+"MU5-TL-AUe.text" = "Progression Status";
+
+/* Class = "UIButton"; normalTitle = "  Reply"; ObjectID = "MVh-9q-W8B"; */
+"MVh-9q-W8B.normalTitle" = "  Reply";
+
+/* Class = "UILabel"; text = "Tom Instructor"; ObjectID = "NCe-xc-UGb"; */
+"NCe-xc-UGb.text" = "Tom Instructor";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "NNw-kP-KCJ"; */
+"NNw-kP-KCJ.text" = "Age:";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "Naq-WT-0UT"; */
+"Naq-WT-0UT.text" = "3";
+
+/* Class = "UILabel"; text = "Zip : "; ObjectID = "NcZ-Td-nUw"; */
+"NcZ-Td-nUw.text" = "Zip : ";
+
+/* Class = "UILabel"; text = "Progression Level 4"; ObjectID = "OFH-EY-mu3"; */
+"OFH-EY-mu3.text" = "Progression Level 4";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password? "; ObjectID = "OMA-s1-ZPl"; */
+"OMA-s1-ZPl.normalTitle" = "Forgot Password? ";
+
+/* Class = "UITextField"; placeholder = "What type, how long"; ObjectID = "OpQ-Ha-sC3"; */
+"OpQ-Ha-sC3.placeholder" = "What type, how long";
+
+/* Class = "UILabel"; text = "Level 2"; ObjectID = "PI9-jt-9DY"; */
+"PI9-jt-9DY.text" = "Level 2";
+
+/* Class = "UILabel"; text = "image_original_1.jpg"; ObjectID = "PN8-Hy-UzD"; */
+"PN8-Hy-UzD.text" = "image_original_1.jpg";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "PcR-RE-7K8"; */
+"PcR-RE-7K8.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "Pow-5b-G6U"; */
+"Pow-5b-G6U.placeholder" = "New Password";
+
+/* Class = "UIButton"; normalTitle = "Edit Details"; ObjectID = "QnA-DQ-ebZ"; */
+"QnA-DQ-ebZ.normalTitle" = "Edit Details";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "QtC-Wl-cfp"; */
+"QtC-Wl-cfp.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "CardNumber"; ObjectID = "RCZ-57-51C"; */
+"RCZ-57-51C.text" = "CardNumber";
+
+/* Class = "UILabel"; text = "08/22/2019"; ObjectID = "S3G-V0-eHG"; */
+"S3G-V0-eHG.text" = "08/22/2019";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "SZ8-AK-0c9"; */
+"SZ8-AK-0c9.text" = "Time";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "SxI-Uh-eTv"; */
+"SxI-Uh-eTv.text" = "Location";
+
+/* Class = "UILabel"; text = "Please review and approve the waiver below."; ObjectID = "SyY-ec-ffS"; */
+"SyY-ec-ffS.text" = "Please review and approve the waiver below.";
+
+/* Class = "UIButton"; normalTitle = "Book Session"; ObjectID = "Tsx-Qq-1Vb"; */
+"Tsx-Qq-1Vb.normalTitle" = "Book Session";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "UbA-Ap-dEQ"; */
+"UbA-Ap-dEQ.text" = "Type";
+
+/* Class = "UIButton"; normalTitle = "  Trash"; ObjectID = "VcO-CC-JwO"; */
+"VcO-CC-JwO.normalTitle" = "  Trash";
+
+/* Class = "UILabel"; text = "Note : "; ObjectID = "W8Z-fH-3wr"; */
+"W8Z-fH-3wr.text" = "Note : ";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "WWS-bb-7CT"; */
+"WWS-bb-7CT.text" = "Type";
+
+/* Class = "UILabel"; text = "Discovery"; ObjectID = "Wea-9g-yjz"; */
+"Wea-9g-yjz.text" = "Discovery";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "X4G-fo-cXS"; */
+"X4G-fo-cXS.placeholder" = "Confirm New Password";
+
+/* Class = "UILabel"; text = "Attachments (2)"; ObjectID = "X89-9e-KjI"; */
+"X89-9e-KjI.text" = "Attachments (2)";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "XEZ-6k-XGh"; */
+"XEZ-6k-XGh.text" = "Reset Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "XSp-XX-dre"; */
+"XSp-XX-dre.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Progression Status"; ObjectID = "XuY-wJ-heK"; */
+"XuY-wJ-heK.text" = "Progression Status";
+
+/* Class = "UITextField"; placeholder = "Type Here"; ObjectID = "XxN-IC-f3K"; */
+"XxN-IC-f3K.placeholder" = "Type Here";
+
+/* Class = "UILabel"; text = "Progression Type"; ObjectID = "Xyh-op-tlj"; */
+"Xyh-op-tlj.text" = "Progression Type";
+
+/* Class = "UITabBarItem"; title = "Progression"; ObjectID = "Yfs-uq-i7Z"; */
+"Yfs-uq-i7Z.title" = "Progression";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "YtF-oP-coe"; */
+"YtF-oP-coe.text" = "Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z9X-ee-TAG"; */
+"Z9X-ee-TAG.text" = "Label";
+
+/* Class = "UILabel"; text = "ADD TO FAVORITE"; ObjectID = "ZKZ-Dw-AvF"; */
+"ZKZ-Dw-AvF.text" = "ADD TO FAVORITE";
+
+/* Class = "UIButton"; normalTitle = "Register Now"; ObjectID = "ZMa-LL-gUB"; */
+"ZMa-LL-gUB.normalTitle" = "Register Now";
+
+/* Class = "UILabel"; text = "4444"; ObjectID = "aRJ-uO-iAG"; */
+"aRJ-uO-iAG.text" = "4444";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "aff-ND-hDe"; */
+"aff-ND-hDe.text" = "Date";
+
+/* Class = "UILabel"; text = "Progression Type"; ObjectID = "alQ-An-rla"; */
+"alQ-An-rla.text" = "Progression Type";
+
+/* Class = "UILabel"; text = "Country : "; ObjectID = "bQa-hn-ERi"; */
+"bQa-hn-ERi.text" = "Country : ";
+
+/* Class = "UILabel"; text = "Level 1"; ObjectID = "c1H-le-KEu"; */
+"c1H-le-KEu.text" = "Level 1";
+
+/* Class = "UILabel"; text = "Subject : Great Job Today!"; ObjectID = "c5v-ms-gqL"; */
+"c5v-ms-gqL.text" = "Subject : Great Job Today!";
+
+/* Class = "UILabel"; text = "Commented By"; ObjectID = "cDd-sJ-aMb"; */
+"cDd-sJ-aMb.text" = "Commented By";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "cp9-ZM-HOA"; */
+"cp9-ZM-HOA.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "City : "; ObjectID = "cxT-Gn-Wyj"; */
+"cxT-Gn-Wyj.text" = "City : ";
+
+/* Class = "UILabel"; text = "Rating : "; ObjectID = "dAq-5g-WnS"; */
+"dAq-5g-WnS.text" = "Rating : ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dCw-21-67C"; */
+"dCw-21-67C.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "My Sessions"; ObjectID = "dI4-ET-wh0"; */
+"dI4-ET-wh0.title" = "My Sessions";
+
+/* Class = "UITextField"; placeholder = "Zip Code"; ObjectID = "dW4-ZT-ZZg"; */
+"dW4-ZT-ZZg.placeholder" = "Zip Code";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "dcT-6A-lPo"; */
+"dcT-6A-lPo.text" = "Weight:";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "dcr-qu-bmk"; */
+"dcr-qu-bmk.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "eME-LP-OwC"; */
+"eME-LP-OwC.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "ede-A5-jHt"; */
+"ede-A5-jHt.placeholder" = "Age";
+
+/* Class = "UIButton"; normalTitle = "Edit Picture"; ObjectID = "fBR-gF-45J"; */
+"fBR-gF-45J.normalTitle" = "Edit Picture";
+
+/* Class = "UILabel"; text = "Session Desc"; ObjectID = "g5g-As-rxF"; */
+"g5g-As-rxF.text" = "Session Desc";
+
+/* Class = "UILabel"; text = "Session Amount"; ObjectID = "ghA-ca-CZ1"; */
+"ghA-ca-CZ1.text" = "Session Amount";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "hBu-Oi-9ii"; */
+"hBu-Oi-9ii.text" = "Yes";
+
+/* Class = "UILabel"; text = "Membership"; ObjectID = "iIp-4Z-KkI"; */
+"iIp-4Z-KkI.text" = "Membership";
+
+/* Class = "UILabel"; text = "Test User"; ObjectID = "jm4-L3-Wnp"; */
+"jm4-L3-Wnp.text" = "Test User";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"; ObjectID = "kew-qQ-4Sh"; */
+"kew-qQ-4Sh.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s";
+
+/* Class = "UILabel"; text = "WeekDay"; ObjectID = "ksV-Xc-ivU"; */
+"ksV-Xc-ivU.text" = "WeekDay";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "mgB-q8-kds"; */
+"mgB-q8-kds.text" = "Pending";
+
+/* Class = "UITextField"; placeholder = "Your Name"; ObjectID = "n5Z-Tl-eaC"; */
+"n5Z-Tl-eaC.placeholder" = "Your Name";
+
+/* Class = "UITabBarItem"; title = "My Account"; ObjectID = "nLH-fq-cov"; */
+"nLH-fq-cov.title" = "My Account";
+
+/* Class = "UILabel"; text = "5:55 pm"; ObjectID = "nMq-KK-slM"; */
+"nMq-KK-slM.text" = "5:55 pm";
+
+/* Class = "UILabel"; text = "1914 translation by H. Rackham\n\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"\n\nSection 1.10.33 of \"de Finibus Bonorum et Malorum\", written by Cicero in 45 BC\n\"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus"; ObjectID = "oX4-Jv-n70"; */
+"oX4-Jv-n70.text" = "1914 translation by H. Rackham\n\"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?\"\n\nSection 1.10.33 of \"de Finibus Bonorum et Malorum\", written by Cicero in 45 BC\n\"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus";
+
+/* Class = "UILabel"; text = "Please enter your card details below to add card."; ObjectID = "omg-gk-DZZ"; */
+"omg-gk-DZZ.text" = "Please enter your card details below to add card.";
+
+/* Class = "UILabel"; text = "All Other Dates Are Available. You Can Book Your Session On That Days."; ObjectID = "ooX-bf-4S4"; */
+"ooX-bf-4S4.text" = "All Other Dates Are Available. You Can Book Your Session On That Days.";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "owZ-Xx-tMj"; */
+"owZ-Xx-tMj.text" = "Amount";
+
+/* Class = "UILabel"; text = "Total Folis"; ObjectID = "pP5-lA-rGK"; */
+"pP5-lA-rGK.text" = "Total Folis";
+
+/* Class = "UILabel"; text = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled"; ObjectID = "piT-nX-0Jo"; */
+"piT-nX-0Jo.text" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled";
+
+/* Class = "UILabel"; text = "Progression Type"; ObjectID = "qoq-yW-oVN"; */
+"qoq-yW-oVN.text" = "Progression Type";
+
+/* Class = "UIButton"; normalTitle = "Discovery Session"; ObjectID = "rYl-UY-ZvJ"; */
+"rYl-UY-ZvJ.normalTitle" = "Discovery Session";
+
+/* Class = "UILabel"; text = "Cost"; ObjectID = "skz-wW-Hmc"; */
+"skz-wW-Hmc.text" = "Cost";
+
+/* Class = "UILabel"; text = "4444"; ObjectID = "snB-Iz-YcQ"; */
+"snB-Iz-YcQ.text" = "4444";
+
+/* Class = "UILabel"; text = "Progression Level 1"; ObjectID = "spG-WE-0WU"; */
+"spG-WE-0WU.text" = "Progression Level 1";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "t05-eS-XAL"; */
+"t05-eS-XAL.text" = "10";
+
+/* Class = "UITextField"; placeholder = "Range"; ObjectID = "tnb-uT-HWB"; */
+"tnb-uT-HWB.placeholder" = "Range";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "tnp-Ui-iuQ"; */
+"tnp-Ui-iuQ.normalTitle" = "Book Now";
+
+/* Class = "UILabel"; text = "Progression Type"; ObjectID = "ttH-wI-BPs"; */
+"ttH-wI-BPs.text" = "Progression Type";
+
+/* Class = "UILabel"; text = "Previous Experience:"; ObjectID = "uOh-yV-ElP"; */
+"uOh-yV-ElP.text" = "Previous Experience:";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "umh-pX-c67"; */
+"umh-pX-c67.placeholder" = "Gender";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "uvt-vi-SHo"; */
+"uvt-vi-SHo.text" = "or";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "vj1-D0-lVK"; */
+"vj1-D0-lVK.text" = "Amount";
+
+/* Class = "UILabel"; text = "Progression Status"; ObjectID = "wHz-ru-NkD"; */
+"wHz-ru-NkD.text" = "Progression Status";
+
+/* Class = "UILabel"; text = "Range : "; ObjectID = "wp2-E5-PVp"; */
+"wp2-E5-PVp.text" = "Range : ";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "xvE-od-UdB"; */
+"xvE-od-UdB.text" = "No";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "yA0-52-3vX"; */
+"yA0-52-3vX.normalTitle" = "Add New Card";
+
+/* Class = "UILabel"; text = "Indicates Not Available Dates."; ObjectID = "yAc-CF-XbQ"; */
+"yAc-CF-XbQ.text" = "Indicates Not Available Dates.";
+
+/* Class = "UILabel"; text = "For experienced eFoilers who what to join our membership program please click below to schedule a certification session."; ObjectID = "yYb-KC-Roa"; */
+"yYb-KC-Roa.text" = "For experienced eFoilers who what to join our membership program please click below to schedule a certification session.";
+
+/* Class = "UILabel"; text = "Cost"; ObjectID = "zEr-QU-Lku"; */
+"zEr-QU-Lku.text" = "Cost";
+
+/* Class = "UIButton"; normalTitle = "Twitter"; ObjectID = "zOL-3B-tq1"; */
+"zOL-3B-tq1.normalTitle" = "Twitter";
+
+/* Class = "UILabel"; text = "Hey everyone! Positive reviews from awesome customers like you help others to feel confident about choosing Link Affiliate too."; ObjectID = "zsH-k6-MKq"; */
+"zsH-k6-MKq.text" = "Hey everyone! Positive reviews from awesome customers like you help others to feel confident about choosing Link Affiliate too.";

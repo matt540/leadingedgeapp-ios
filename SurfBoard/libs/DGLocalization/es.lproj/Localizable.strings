@@ -1,0 +1,106 @@
+//common sentence
+ERROR_SOMETHING = "Algo salió mal.";
+ERROR_RESPONSE  = "Sin respuesta del servidor.";
+ERROR_NETWORK   = "No hay red disponible.";
+
+//tabbar titles
+TABBAR_ITEM_TITLE_0 = "Tablero";
+TABBAR_ITEM_TITLE_1 = "Localizaciones";
+TABBAR_ITEM_TITLE_2 = "Mis sesiones";
+TABBAR_ITEM_TITLE_3 = "Progresión";
+TABBAR_ITEM_TITLE_4 = "Mi cuenta";
+
+//dashboard page
+DASHBOAD_TITLE = "Tablero";
+
+//location page
+LOCATION_TITLE = "Localizaciones";
+YOUR_LOCATION_TITLE = "Tu ubicación:";
+YOUR_LOCATION_PLACEHOLDER = "Buscar ubicación";
+RANGE_TITLE = "Rango:";
+MILES = "Millas";
+ERROR_LOC_NOT_FOUND = "Ubicación no encontrada. Intenta usar el formato, \n Ejemplo: nombre de ciudad, nombre de país";
+ERROR_NEAR_LOC_NOT_FOUND = "Ubicaciones cercanas no encontradas.";
+ERROR_ENTER_KEYWORD = "Por favor, introduzca la palabra clave para la búsqueda.";
+
+//Progression page
+PROGRESSION_TITLE = "Progresión";
+DISCOVERY = "Descubrimiento";
+CRUISER = "Crucero";
+EXPLORER = "Exploradora";
+SPORT = "Deporte";
+PRO = "Pro";
+MEMBER = "Miembro";
+DISCOVERY_ENROLLMENT = "Inscripción de descubrimiento";
+MEMBERSHIP = "Afiliación";
+PENDING = "Pendiente";
+COMPLETED = "Terminada";
+FAILED = "Fallida";
+CONGRATULATIONS_MEMBER = "Felicidades. Ahora eres miembro.";
+YOU_RE_NOW_CERTI_BY = "Ahora estas certificada por";
+ON_DATE = "A tiempo : ";
+CONGRATULATIONS = "Felicidades";
+OK = "Okay";
+
+//Progression Comment Popup
+COMMENTED_BY = "Comentado por";
+COMMENT = "Comentario";
+
+//My Account page
+MY_ACCOUNT_TITLE = "Mi cuenta";
+USER_NAME = "Nombre : ";
+USER_EMAIL = "Email : ";
+USER_ADDRESS = "Habla a : ";
+USER_CITY = "Ciudad : ";
+USER_STATE = "Estado : ";
+USER_COUNTRY = "País : ";
+USER_ZIP = "Código Postal : ";
+BTN_EDIT_PIC = "Editar foto";
+BTN_RESET_PASSWORD = "Restablecer la contraseña";
+BTN_SAVE_DETAILS = "Guardar detalles";
+BTN_EDIT_DETAILS = "Editar detalles";
+MY_PAYMENT_METHOD = "Mis formas de pago";
+VISA_CARD_WITH = "Tarjeta Visa que termina con";
+MASTER_CARD_WITH = "Tarjeta MasterCard que termina con";
+AMERICAN_CARD_WITH = "Tarjeta American Express que termina con";
+DISCOVER_CARD_WITH = "Tarjeta Discover que termina con";
+JCB_CARD_WITH = "Tarjeta JCB que termina con";
+LASER_CARD_WITH = "Tarjeta Laser que termina con";
+DINERS_CARD_WITH = "Tarjeta Diners Club que termina con";
+CARD_WITH = "Tarjeta que termina con";
+ERROR_ENTER_NAME = "Por favor, introduzca el nombre.";
+ERROR_ENTER_EMAIL = "Por favor, introduzca su correo electrónico.";
+ERROR_ENTER_ZIP = "Por favor, introduzca el código postal.";
+ERROR_ENTER_ADDRESS = "Por favor, introduzca la dirección.";
+ERROR_ENTER_CITY = "Por favor, introduzca la ciudad.";
+ERROR_ENTER_STATE = "Por favor, introduzca el estado.";
+ERROR_ENTER_COUNTRY = "Por favor, introduzca el país.";
+FROM_CAMERA = "De la cámara";
+FROM_GALLARY = "De la galería";
+CANCEL = "Cancelar";
+
+//Reset Password page
+RESET_PASS_TITLE = "Restablecer la contraseña";
+OLD_PASS_PLACEHOLDER = "Contraseña anterior";
+NEW_PASS_PLACEHOLDER = "Nueva contraseña";
+CONFIRM_PASS_PLACEHOLDER = "Confirmar nueva contraseña";
+BTN_SUBMIT = "Enviar";
+
+//My Sessions page
+MY_SESSIONS_TITLE = "Mis Sesiones";
+UPCOMING_SESSIONS = "Próximas Sesiones";
+PREVIOUS_SESSIONS = "Sesiones Anteriores";
+NO_SESSIONS = "No hay sesiones disponibles";
+BTN_BOOK_SESSION = "Sesión de libro";
+SESSION_TYPE = "Tipo de sesión : ";
+SESSION_DATE = "Fecha de sesión : ";
+SESSION_COST = "Costo de la sesión : $";
+SESSION_LOC = "Lugar de la sesión : ";
+RATING = "Calificación : ";
+CLICK_TO_SUBMIT = "Haga clic para enviar";
+INST_NOT_PROVIDE_COMNT = "El instructor aún no ha proporcionado una revisión de su sesión anterior.";
+
+//Rating Popup page
+RATING_POPUP_TITLE = "CLASIFICACIÓN";
+RATING_POPUP_QUOTE = "¡Hola a todos! Las críticas positivas de clientes increíbles como usted ayudan a otros a sentirse seguros de elegir Link Affiliate también.";
+BTN_RATING_POPUP_SUBMIT = "Enviar";

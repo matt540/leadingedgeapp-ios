@@ -1,0 +1,106 @@
+//common sentence
+ERROR_SOMETHING ="Something went Wrong.";
+ERROR_RESPONSE  = "No Response from Server.";
+ERROR_NETWORK   = "No network available.";
+
+//tabbar titles
+TABBAR_ITEM_TITLE_0 = "Dashboard";
+TABBAR_ITEM_TITLE_1 = "Locations";
+TABBAR_ITEM_TITLE_2 = "My Sessions";
+TABBAR_ITEM_TITLE_3 = "Progression";
+TABBAR_ITEM_TITLE_4 = "My Account";
+
+//dashboard page
+DASHBOAD_TITLE = "Dashboard";
+
+//location page
+LOCATION_TITLE = "Locations";
+YOUR_LOCATION_TITLE = "Your Location:";
+YOUR_LOCATION_PLACEHOLDER = "Search Location";
+RANGE_TITLE = "Range:";
+MILES = "Miles";
+ERROR_LOC_NOT_FOUND = "Location Not Found. Try Using Format, \n Ex: City Name,Country Name";
+ERROR_NEAR_LOC_NOT_FOUND = "Nearby Locations Not Found.";
+ERROR_ENTER_KEYWORD = "Please enter keyword for search.";
+
+//Progression page
+PROGRESSION_TITLE = "Progression";
+DISCOVERY = "Discovery";
+CRUISER = "Cruiser";
+EXPLORER = "Explorer";
+SPORT = "Sport";
+PRO = "Pro";
+MEMBER = "Certificate";
+DISCOVERY_ENROLLMENT = "Discovery Enrollment";
+MEMBERSHIP = "Certification";
+PENDING = "Pending";
+COMPLETED = "Completed";
+FAILED = "Failed";
+CONGRATULATIONS_MEMBER = "Congratulations. You're now Certified User.";
+YOU_RE_NOW_CERTI_BY = "You're Now Certified by";
+ON_DATE = "on Date : ";
+CONGRATULATIONS = "Congratulations";
+OK = "OK";
+
+//Progression Comment Popup
+COMMENTED_BY = "Commented By";
+COMMENT = "Comment";
+
+//My Account page
+MY_ACCOUNT_TITLE = "My Account";
+USER_NAME = "Name : ";
+USER_EMAIL = "Email : ";
+USER_ADDRESS = "Address : ";
+USER_CITY = "City : ";
+USER_STATE = "State : ";
+USER_COUNTRY = "Country : ";
+USER_ZIP = "Zip : ";
+BTN_EDIT_PIC = "Edit Picture";
+BTN_RESET_PASSWORD = "Reset Password";
+BTN_SAVE_DETAILS = "Save Details";
+BTN_EDIT_DETAILS = "Edit Details";
+MY_PAYMENT_METHOD = "My Payment Methods";
+VISA_CARD_WITH = "Visa card ending with";
+MASTER_CARD_WITH = "MasterCard card ending with";
+AMERICAN_CARD_WITH = "American Express card ending with";
+DISCOVER_CARD_WITH = "Discover card ending with";
+JCB_CARD_WITH = "JCB card ending with";
+LASER_CARD_WITH = "Laser card ending with";
+DINERS_CARD_WITH = "Diners Club card ending with";
+CARD_WITH = "Card ending with";
+ERROR_ENTER_NAME = "Please Enter Name.";
+ERROR_ENTER_EMAIL = "Please Enter Email.";
+ERROR_ENTER_ZIP = "Please Enter Zipcode.";
+ERROR_ENTER_ADDRESS = "Please Enter Address.";
+ERROR_ENTER_CITY = "Please Enter City.";
+ERROR_ENTER_STATE = "Please Enter State.";
+ERROR_ENTER_COUNTRY = "Please Enter Country.";
+FROM_CAMERA = "From Camera";
+FROM_GALLARY = "From Gallary";
+CANCEL = "Cancel";
+
+//Reset Password page
+RESET_PASS_TITLE = "Reset Password";
+OLD_PASS_PLACEHOLDER = "Old Password";
+NEW_PASS_PLACEHOLDER = "New Password";
+CONFIRM_PASS_PLACEHOLDER = "Confirm New Password";
+BTN_SUBMIT = "Submit";
+
+//My Sessions page
+MY_SESSIONS_TITLE = "My Sessions";
+UPCOMING_SESSIONS = "Upcoming Sessions";
+PREVIOUS_SESSIONS = "Previous Sessions";
+NO_SESSIONS = "There is no Sessions Available";
+BTN_BOOK_SESSION = "Book Session";
+SESSION_TYPE = "Session Type : ";
+SESSION_DATE = "Session Date : ";
+SESSION_COST = "Session Cost : $";
+SESSION_LOC = "Session Location : ";
+RATING = "Rating : ";
+CLICK_TO_SUBMIT = "Click to Submit";
+INST_NOT_PROVIDE_COMNT = "Instructor has not provided review on your previous session yet.";
+
+//Rating Popup page
+RATING_POPUP_TITLE = "RATING";
+RATING_POPUP_QUOTE = "Hey everyone! Positive reviews from awesome customers like you help others to feel confident about choosing Link Affiliate too.";
+BTN_RATING_POPUP_SUBMIT = "Submit";
